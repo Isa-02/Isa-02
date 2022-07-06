@@ -11,7 +11,7 @@
 | Redux Toolkit | Mongoose |
 | React Router  | MongoDB  |
 |React router dom v6
-
+|Webpack
 ### Связаться со мной
 
 ![eMail]()
