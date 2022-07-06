@@ -10,4 +10,3 @@ React | NodeJS
 Redux | Express
 Redux Thunk | Mongoose
 React Router | MongoDB
-React Bootstrap |
