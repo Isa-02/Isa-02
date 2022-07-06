@@ -12,6 +12,7 @@
 | React Router  | MongoDB  |
 |React router dom v6
 |Webpack
+<br/>
 
 ![JS](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javaScript)
 ![TS](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
@@ -28,12 +29,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=Webpack)
-![Babel](https://img.shields.io/badge/Babel-black?style=flat-square&logo=Babel)
-![Trello](https://img.shields.io/badge/Trello-black?style=flat-square&logo=Trello)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma)
 ![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=Prettier)
 ![EsLint](https://img.shields.io/badge/EsLint-black?style=flat-square&logo=EsLint)
-![heroku](https://img.shields.io/badge/heroku-black?style=flat-square&logo=heroku)
 
 
 ### Связаться со мной
