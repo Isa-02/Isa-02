@@ -5,6 +5,7 @@
 ### Стек технологий, с которым я работал:
 
 | Frontend      | Backend  |
+| ------------- | -------- |
 | React         | NodeJS   |
 | Redux         | Express  |
 | Redux Toolkit | Mongoose |
