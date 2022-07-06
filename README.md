@@ -10,7 +10,8 @@
 | Redux         | Express  |
 | Redux Toolkit | Mongoose |
 | React Router  | MongoDB  |
-
+|React router dom v6
+||
 ### Связаться со мной
 
 ![eMail]()
