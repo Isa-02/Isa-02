@@ -32,7 +32,7 @@
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma)
 ![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=Prettier)
 ![EsLint](https://img.shields.io/badge/EsLint-black?style=flat-square&logo=EsLint)
-
+![Redux Toolkit}(https://yandex.ru/images/search?from=tabbar&text=redux%20toolkit&p=1&pos=34&rpt=simage&img_url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsphxBk7HOHw%2Fmaxresdefault.jpg&lr=1106)
 
 ### Связаться со мной
 
