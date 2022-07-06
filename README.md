@@ -15,4 +15,3 @@
 ### Связаться со мной
 
 ![eMail]()
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/yas7_in)
