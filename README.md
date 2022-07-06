@@ -12,11 +12,10 @@
 | React Router  | MongoDB  |
 |React router dom v6
 |Webpack
-----------------------------------------------------------
 
 ## Мои проекты:
 
-1
+## 1
 - [Код Frontend](https://github.com/Isa-02/front_lab)
 - [Код Backend](https://github.com/Isa-02/back-lab)
 
