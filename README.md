@@ -14,5 +14,3 @@
 |Webpack
 ### Связаться со мной
 
-![eMail]()
-[telegram]: https://t.me/isa
