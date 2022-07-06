@@ -13,7 +13,7 @@
 |React router dom v6
 |Webpack
 
-## Мои проекты:
+ Мои проекты:
 
 ## 1
 - [Код Frontend](https://github.com/Isa-02/front_lab)
