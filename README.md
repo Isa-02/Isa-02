@@ -4,9 +4,13 @@
 
 ### Стек технологий, с которым я работал:
 
-Frontend | Backend
---- | ---
-React | NodeJS
-Redux | Express
-Redux Thunk | Mongoose
-React Router | MongoDB
+| Frontend      | Backend  |
+| ------------- | -------- |
+| React         | NodeJS   |
+| Redux         | Express  |
+| Redux Toolkit | Mongoose |
+| React Router  | MongoDB  |
+
+### Связаться со мной
+
+![eMail]()
