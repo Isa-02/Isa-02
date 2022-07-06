@@ -19,8 +19,8 @@
 1
 - [Код Frontend](https://github.com/Isa-02/front_lab)
 - [Код Backend](https://github.com/Isa-02/back-lab)
-----------------------------------------------------------
-2
+
+## 2
 - [Код Frontend](https://github.com/Isa-02/front_kit)
 - [Код Backend](https://github.com/Isa-02/back_kit)
 
