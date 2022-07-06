@@ -9,7 +9,7 @@
 | React         | NodeJS   |
 | Redux         | Express  |
 | Redux Toolkit | Mongoose |
-| React Router  | MongoDB  |
+|   | MongoDB  |
 
 ### Связаться со мной
 
