@@ -1,9 +1,13 @@
-Header
+# Всем привет👋
 
-About me
+### Я Frontend (React, Node.js) разработчик
 
-Latest Youtube Videos
+### Стек технологий, с которым я работал:
 
-Languages and Tools
-
-Follow Me
+Frontend | Backend
+--- | ---
+React | NodeJS
+Redux | Express
+Redux Thunk | Mongoose
+React Router | MongoDB
+React Bootstrap |
