@@ -20,10 +20,10 @@
  Мои проекты:
 
 ## 1
-- [Код Frontend](https://github.com/Isa-02/front_lab)
-- [Код Backend](https://github.com/Isa-02/back-lab)
+- [Код Frontend](https://github.com/Isa-02/medicPro-frontend)
+- [Код Backend](https://github.com/Isa-02/medicPro-backend)
 
 ## 2
-- [Код Frontend](https://github.com/Isa-02/front_kit)
-- [Код Backend](https://github.com/Isa-02/back_kit)
+- [Код Frontend](https://github.com/Isa-02/Ilma-skill-frontend)
+- [Код Backend](https://github.com/Isa-02/ilma-skill-backend)
 
