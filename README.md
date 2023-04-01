@@ -10,8 +10,10 @@
 | Redux         | Express  |
 | Redux Toolkit | Mongoose |
 | React Router  | MongoDB  |
-|React router dom v6
-|Webpack
+| React router dom v6
+| Webpack
+| Storybook
+| Material UI
 
 
 ---------------------------------------
