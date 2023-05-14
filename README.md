@@ -13,7 +13,9 @@
 | React router dom v6
 | Webpack
 | Storybook
+| TypeScript
 | Material UI
+| Jest
 
 
 ---------------------------------------
