@@ -21,13 +21,4 @@
 ---------------------------------------
 
 
- Мои проекты:
-
-## 1
-- [Код Frontend](https://github.com/Isa-02/medicPro-frontend)
-- [Код Backend](https://github.com/Isa-02/medicPro-backend)
-
-## Образовательная платформа
-- [Код Frontend](https://github.com/Isa-02/Ilma-skill-frontend)
-- [Код Backend](https://github.com/Isa-02/ilma-skill-backend)
 
