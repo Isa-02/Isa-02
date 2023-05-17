@@ -15,7 +15,7 @@
 | TypeScript
 | Material UI
 | Jest
-| Eslint
+| ESlint
 
 
 ---------------------------------------
